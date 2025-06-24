@@ -11,8 +11,8 @@ A multiplayer game implemented using Java Socket Programming. This project demon
 - Console-based interface
 
 
-  # Requirement :
-Java 8 or later
+  # Requirements :
+  Java 8 or later
 
 
 # Creators :
